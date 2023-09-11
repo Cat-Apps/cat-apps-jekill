@@ -5,4 +5,5 @@ gem 'rainbow', '3.1.1'
 gem 'typhoeus', '1.4.0'
 gem 'yell', '2.2.2'
 gem 'ethon', '0.16.0'
+gem 'webrick', '1.7.0'
 gemspec
