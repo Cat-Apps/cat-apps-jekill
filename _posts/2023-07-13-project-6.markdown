@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 6
+img: 6.jpg
+alt: image-alt
+title: Maintenance and Hosting Services
+description: We offer ongoing maintenance and hosting services to ensure your software solutions continue to operate smoothly and efficiently. Our maintenance services include regular updates, bug fixes, performance optimization, and security enhancements. As for our hosting services, we provide reliable, high-speed servers with 99.9% uptime, automatic backups, and robust security measures to protect your data.
+---

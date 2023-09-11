@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 3
+img: 3.jpg
+alt: image-alt
+title: Web Application Development
+description: From simple websites and blogs to complex enterprise applications, our team of expert developers can deliver top-notch solutions tailored to your requirements. We use modern technologies like HTML5, CSS3, JavaScript, and various backend languages to build scalable, secure, and efficient web applications. Whether you need a content management system, an e-commerce platform, or a custom web application, we've got you covered.
+---
